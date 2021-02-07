@@ -24,6 +24,9 @@
         <p>
             Password: <input type="password" name="password" />
         </p>
+        <p>
+            Confirm Password: <input type="password" name="password2" />
+        </p>
 
         <input type="submit">
 

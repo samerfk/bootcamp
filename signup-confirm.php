@@ -19,6 +19,10 @@
     $email = $_POST['email'];
     $password = $_POST['password'];
 
+
+
+
+
     //check if email already exists
 
     $sql = "SELECT * FROM `users` WHERE email = '$email'";
